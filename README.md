@@ -8,7 +8,7 @@
 - :school: I am a Computer Engineering student at Insper.
 - 🌱 I’m currently learning more about programming and new languages.
 - 😄 Pronouns: She/her.
-- ⚡ Fun fact: I love to play flute and I love classical music.
+- ⚡ Fun fact: I love to play flute, I love classical music and I love Formula1.
 
 <br>
 
@@ -31,6 +31,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C%2B%2B&logoColor=A8B9CC)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C%20Sharp&logoColor=A8B9CC)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -41,8 +43,13 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=asm.svg&logoColor=2C2255)
+![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=assembly&logoColor=2C2255)
 ![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=vhdl&logoColor=2C2255)
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=FFFFFF)
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=7B42BC)
+![Microchip Studio](https://img.shields.io/badge/-Microchip%20Studio-05122A?style=flat&logo=data:image/png;base64,<BASE64-IMAGE-DATA>&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=009688)
 
 
 ### Operating Systems
@@ -52,6 +59,10 @@
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kali-linux&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Parrot%20Linux-33AADD?style=plastic&logo=parrot&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   
@@ -75,9 +86,8 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Lihsayuri"><img alt="Lihsayuri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Lihsayuri&custom_title=Lihsayuri's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Lihsayuri"><img alt="Lihsayuri's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Lihsayuri&theme=react-dark" /></a>
   <br/>
-
 
 <br/>
 
@@ -88,4 +98,4 @@
 -----
 Credits: [7oSkaaa](https://github.com/7oSkaaa)
 
-Last Edited on: 10/02/2022
+Last Edited on: 27/06/2023
