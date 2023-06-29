@@ -5,7 +5,7 @@
 
 ## :sassy_woman:  About me
 - :city_sunset: I’m from Brazil, São Paulo.
-- :school: I am a Computer Engineering student at Insper.
+- :school: I'm a Computer Engineering student at Insper.
 - 🌱 I’m currently learning more about programming and new languages.
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: I love to play flute, I love classical music and I love Formula1.
